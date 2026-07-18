@@ -1,0 +1,7 @@
+{
+  "name": "timeless-movements",
+  "private": true,
+  "dependencies": {
+    "@netlify/blobs": "^10.7.9"
+  }
+}
